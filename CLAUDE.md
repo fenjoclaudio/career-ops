@@ -15,6 +15,8 @@ This repo is Fenjo's personal job search system. When a session starts here, you
 | `config/scoring.md` | How to score a posting (weights, grades, hard filters) |
 | `targets/organizations.md` | Priority employers with notes |
 | `tracker/applications.md` | Every role evaluated or applied to, with status |
+| `config/sources.md` | Where the automatic scan looks for postings |
+| `tracker/scan-log.md` | Log of each scan, plus every posting already seen |
 | `applications/` | One folder per posting with report, CV and cover letter |
 
 ## Commands
@@ -38,6 +40,15 @@ Run "evaluate" first if no report exists. Then:
 
 ### "status" / "tracker"
 Summarize `tracker/applications.md`: what is open, what deadlines come up in the next 14 days, what needs a follow-up.
+
+### "scan" (also run automatically on Mondays and Thursdays)
+1. Read `config/sources.md` and check every source in it, using the method order described there.
+2. For each posting found, check `tracker/scan-log.md` (Seen postings) and `tracker/applications.md`. Skip anything already seen.
+3. Filter by the "What counts as relevant" rules in `config/sources.md`.
+4. Run "evaluate" on every relevant new posting (report + tracker row).
+5. Add every posting looked at, relevant or not, to the Seen postings list. Add a scan entry at the top of the log.
+6. Commit and push with the message `Scan YYYY-MM-DD: n new, n A/B`.
+7. Report: all A and B postings with grade, deadline and one line on why. Then one line with the count of C-or-lower and skipped postings, and any unreachable sources.
 
 ### "update <something>"
 Fenjo can change the system itself ("weight network higher", "add GIZ to targets", "my cover letters are too long"). Edit the relevant file, then say in one line what changed.
