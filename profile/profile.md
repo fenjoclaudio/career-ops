@@ -32,5 +32,5 @@ Foreign policy, international relations, grand strategy, geoeconomics, security 
 
 ## Contact details used in applications
 - Phone: +39 338 377 8051
-- Email: open question. The CV uses F.Kutz@students.hertie-school.org, the BMW letter used fenjo.kutz@gmail.com. Ask Fenjo which to use before the first application.
+- Email: F.Kutz@students.hertie-school.org (use this in all applications)
 - Address: Berlin (current street address not stored here, ask when a letter needs it)
