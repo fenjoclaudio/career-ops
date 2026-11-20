@@ -11,6 +11,12 @@ Skipped as irrelevant: n
 Highlights: one line per A or B posting
 ```
 
+## 2026-11-20
+Sources checked: 15 (unreachable: BMVg, McKinsey, BND page fetch failed, search only. Bundeskanzleramt, Interamt, Bund.de, Abgeordnetenbüros, Rasmussen Global search only. Gmail: no job alert emails since the last scan)
+New relevant postings: 1 (A: 0, B: 0, C or lower: 1)
+Skipped as irrelevant, closed or removed: 12
+Highlights: none. Only new relevant posting is DGAP Europa-Zentrum internship, C (65), requires excellent French
+
 ## 2026-11-19
 Sources checked: 15 (unreachable: Bundeskanzleramt, BND, Interamt, Bund.de not checked directly, search only. No cloud browser, direct page fetch blocked for most URLs until found by search. Gmail: no job alert emails in the last 7 days)
 New relevant postings: 6 (A: 1, B: 3, C or lower: 2)
@@ -35,3 +41,16 @@ Every posting the scan has already looked at, so it is never evaluated twice. On
 2026-11-19 | ifa zivik | Studentische Hilfskraft | https://pzkb.de/wp-content/uploads/2026/07/zivik_Ausschreibung_stud_Hilfskraft.pdf | skipped (ends Dec 2026)
 2026-11-19 | McKinsey | Fellow Intern 20421 | https://www.mckinsey.com/careers/search-jobs/jobs/fellowintern-20421 | skipped (no Berlin)
 2026-11-19 | GPPi | no vacancies | https://www.gppi.net/about/jobs-internships | skipped (none open)
+2026-11-20 | DGAP | Praktikum im Europa-Zentrum | https://dgap.org/de/jobs-praktika/praktika | C
+2026-11-20 | SWP | Studentische Hilfskraft Forschungsgruppe EU/Europa | https://www.swp-berlin.org/karriere/stellenangebot/studentische-hilfskraft-d-m-w-in-der-forschungsgruppe-eu-europa | skipped (page removed, not on karriere page)
+2026-11-20 | SWP | Studentische Hilfskraft im Projekt (Bilaterale Partnerschaften) | https://www.swp-berlin.org/karriere/stellenangebot/studentische-hilfskraft-d-m-w-im-projekt | skipped (page removed)
+2026-11-20 | SWP | Studentische Hilfskraft CATS | https://www.swp-berlin.org/karriere/stellenangebot/studentische-hilfskraft-d-m-w-centrum-fuer-angewandte-tuerkeistudien | skipped (page removed)
+2026-11-20 | SWP | Forschungsassistenz Sicherheitspolitik | https://www.swp-berlin.org/karriere/stellenangebot/forschungsassistenz-d-m-w-in-der-forschungsgruppe-sicherheitspolitik | skipped (page removed)
+2026-11-20 | SWP | Studentische Hilfskraft Forschungsförderung | https://www.swp-berlin.org/karriere/stellenangebot/studentische-hilfskraft-d-m-w-im-referat-forschungsfoerderung-und-wissenschaftliches-berichtswesen | skipped (page removed)
+2026-11-20 | SWP | Studentische Hilfskraft Digitale Bibliothek | https://www.swp-berlin.org/karriere/stellenangebot/studentische-hilfskraft-d-m-w-im-bereich-digitale-bibliothek | skipped (page removed)
+2026-11-20 | SWP | Studentische Hilfskraft Distribution | https://www.swp-berlin.org/karriere/stellenangebot/studentische-hilfskraft-d-m-w-in-der-distribution | skipped (page removed)
+2026-11-20 | SWP | Studentische Hilfskraft IT-Referat | https://www.swp-berlin.org/karriere/stellenangebot/studentische-hilfskraft-d-m-w-im-it-referat | skipped (page removed, IT)
+2026-11-20 | GPPi | Part-Time Research Assistant Foresight, Peace & Security | https://gppi.net/about/jobs-internships/gppi-seeks-a-research-assistant-in-peace-and-security | skipped (stale 2025, no vacancies listed)
+2026-11-20 | GPPi | Part-Time Researcher Critical Technologies | https://gppi.net/2026/08/14/gppi-seeks-part-time-researcher-focusing-on-critical-technologies | skipped (closed)
+2026-11-20 | BPA | Werkstudent Referat 113 IT | https://www.bundesregierung.de/resource/blob/975202/2261028/ffd0a6e54dbab45affa3b949acb1a61f/2026-08-21-werkstudent-113-data.pdf | skipped (deadline passed, IT)
+2026-11-20 | GIZ | Praktikant*in Sektorvorhaben Frieden und Sicherheit, Katastrophenrisikomanagement | https://jobs.giz.de/index.php?ac=application&jobad_id=78649 | skipped (deadline passed)
