@@ -11,6 +11,13 @@ Skipped as irrelevant: n
 Highlights: one line per A or B posting
 ```
 
+## 2026-11-23
+Sources checked: 15 (unreachable: adelphi careers portal, BMVg, BND, Bundeskanzleramt, Interamt, Bund.de, Abgeordnetenbüros, McKinsey, Rasmussen Global search only. Deutsche Bahn "Praktikum Strategische Sicherheitsbeziehungen" found but page unreadable, not logged as seen so the next scan retries. Gmail: no job alert emails since the last scan. SWP, AA, DGAP, GPPi: no new vacancies)
+New relevant postings: 1 (A: 0, B: 1, C or lower: 0)
+Skipped as irrelevant, closed or stale: 8
+Highlights:
+- B (71) Airbus Working Student Public Affairs Germany, Berlin, ~18 h, no deadline, posted Aug 2026 and possibly closed
+
 ## 2026-11-20
 Sources checked: 15 (unreachable: BMVg, McKinsey, BND page fetch failed, search only. Bundeskanzleramt, Interamt, Bund.de, Abgeordnetenbüros, Rasmussen Global search only. Gmail: no job alert emails since the last scan)
 New relevant postings: 1 (A: 0, B: 0, C or lower: 1)
@@ -54,3 +61,12 @@ Every posting the scan has already looked at, so it is never evaluated twice. On
 2026-11-20 | GPPi | Part-Time Researcher Critical Technologies | https://gppi.net/2026/08/14/gppi-seeks-part-time-researcher-focusing-on-critical-technologies | skipped (closed)
 2026-11-20 | BPA | Werkstudent Referat 113 IT | https://www.bundesregierung.de/resource/blob/975202/2261028/ffd0a6e54dbab45affa3b949acb1a61f/2026-08-21-werkstudent-113-data.pdf | skipped (deadline passed, IT)
 2026-11-20 | GIZ | Praktikant*in Sektorvorhaben Frieden und Sicherheit, Katastrophenrisikomanagement | https://jobs.giz.de/index.php?ac=application&jobad_id=78649 | skipped (deadline passed)
+2026-11-23 | Airbus (Defence and Space) | Working Student Public Affairs Germany | https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-961835234-S | B
+2026-11-23 | Airbus | Intern Public Affairs Germany in Berlin | https://builtin.com/job/intern-d-f-m-public-affairs-germany-berlin/6927800 | skipped (full-time internship, dates unknown)
+2026-11-23 | KAS | Praktikant 39 Std Internationale Politik und Sicherheit | https://kas.de/documents/d/guest/praktikant-mwd-fur-39-std-woche-in-der-abteilung-internationale-politik-und-sicherheit | skipped (stale, 2025 periods)
+2026-11-23 | interface | Student Assistant AI Workforce & Innovation | https://jobs.interface-eu.org/de?id=d1e3db | skipped (deadline passed)
+2026-11-23 | interface | Student assistant fundraising | https://jobs.interface-eu.org/de?id=353011 | skipped (deadline passed)
+2026-11-23 | GMF | Trainee Indo-Pacific Program | https://recruiting.paylocity.com/recruiting/jobs/Details/4147146/German-Marshall-Fund-Of-The-US/Trainee-Indo-Pacific-Program | skipped (removed)
+2026-11-23 | Heinrich-Böll-Stiftung | Studentische Teilzeitkraft | https://www.boell.de/de/2026/08/07/studentische-teilzeitkraft-wmdka | skipped (page unreadable, Aug 2026)
+2026-11-23 | adelphi | Project Assistant Communications student | https://erecruiting.org/job-postings/adelphi-project-assistant-communications-student-position-m-f-d-15-20h-week-adelphi-consult-gmbh | skipped (communications, details not loadable)
+2026-11-23 | GIZ | G410 Praktikant*in Sektorvorhaben EU-Entwicklungspolitik | https://unjobs.org/vacancies/1782336639588 | skipped (unreadable, development policy)

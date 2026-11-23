@@ -11,3 +11,4 @@ Status values: `evaluated` → `ready` → `applied` → `interview` → `offer`
 | 2026-11-19 | McKinsey | Fellow Intern | Praktikum full-time | flexible | C (62) | rolling | evaluated | Watch for Berlin listing | applications/2026-11-19_mckinsey_fellow-intern |
 | 2026-11-19 | adelphi | Student Project Assistant climate policy | Werkstudent 16-20 h | ASAP | C (63) | unknown | evaluated | Only if gap | applications/2026-11-19_adelphi_student-project-assistant-climate |
 | 2026-11-20 | DGAP | Praktikum im Europa-Zentrum | Praktikum, 2 months, on-site | Jan-Mar 2027 | C (65) | 2026-12-02 | evaluated | Skip unless French is good | applications/2026-11-20_dgap_praktikum-europa-zentrum |
+| 2026-11-23 | Airbus (Defence and Space) | Working Student Public Affairs Germany | Werkstudent ~18 h | ASAP, 6 months | B (71) | unknown, may be closed | evaluated | Check airbus.com if still open | applications/2026-11-23_airbus_working-student-public-affairs |
