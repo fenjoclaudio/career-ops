@@ -11,6 +11,12 @@ Skipped as irrelevant: n
 Highlights: one line per A or B posting
 ```
 
+## 2026-11-24
+Sources checked: 15 (unreachable: individual AA vacancy pages blocked, but the AA vacancy list loaded and shows no open vacancies. BMVg, BND, Bundeskanzleramt, Interamt, Bund.de, Abgeordnetenbüros, McKinsey, Rasmussen Global, adelphi search only. Bundestag Volontariat page unreadable. Deutsche Bahn "Praktikum Strategische Sicherheitsbeziehungen" not retried, still to check. Gmail: one LinkedIn alert with 5 FU Berlin student jobs. SWP, GPPi, DGAP: no new vacancies)
+New relevant postings: 0 (A: 0, B: 0, C or lower: 0)
+Skipped as irrelevant or not a specific vacancy: 7
+Highlights: none
+
 ## 2026-11-23
 Sources checked: 15 (unreachable: adelphi careers portal, BMVg, BND, Bundeskanzleramt, Interamt, Bund.de, Abgeordnetenbüros, McKinsey, Rasmussen Global search only. Deutsche Bahn "Praktikum Strategische Sicherheitsbeziehungen" found but page unreadable, not logged as seen so the next scan retries. Gmail: no job alert emails since the last scan. SWP, AA, DGAP, GPPi: no new vacancies)
 New relevant postings: 1 (A: 0, B: 1, C or lower: 0)
@@ -70,3 +76,10 @@ Every posting the scan has already looked at, so it is never evaluated twice. On
 2026-11-23 | Heinrich-Böll-Stiftung | Studentische Teilzeitkraft | https://www.boell.de/de/2026/08/07/studentische-teilzeitkraft-wmdka | skipped (page unreadable, Aug 2026)
 2026-11-23 | adelphi | Project Assistant Communications student | https://erecruiting.org/job-postings/adelphi-project-assistant-communications-student-position-m-f-d-15-20h-week-adelphi-consult-gmbh | skipped (communications, details not loadable)
 2026-11-23 | GIZ | G410 Praktikant*in Sektorvorhaben EU-Entwicklungspolitik | https://unjobs.org/vacancies/1782336639588 | skipped (unreadable, development policy)
+2026-11-24 | Freie Universität Berlin | Stud. Beschäftigte*r DM-983 | https://www.linkedin.com/jobs/view/4492361966/ | skipped (university SHK, not target sector)
+2026-11-24 | Freie Universität Berlin | Stud. Beschäftigte*r HK_08_2026 | https://www.linkedin.com/jobs/view/4492362852/ | skipped (university SHK, not target sector)
+2026-11-24 | Freie Universität Berlin | Stud. Beschäftigte*r HK_09_2026 | https://www.linkedin.com/jobs/view/4492365695/ | skipped (university SHK, not target sector)
+2026-11-24 | Freie Universität Berlin | Stud. Beschäftigte*r Muwi_EvS_2027 | https://www.linkedin.com/jobs/view/4492374442/ | skipped (musicology)
+2026-11-24 | Freie Universität Berlin | Stud. Beschäftigte*r PuK-Journalistik MePraWi TP1 | https://www.linkedin.com/jobs/view/4492376327/ | skipped (journalism research)
+2026-11-24 | Berghof Foundation | General application student assistant | https://berghof-foundation-operations-ggmbh.jobs.personio.de/job/507989 | skipped (open pool, no specific vacancy)
+2026-11-24 | Heinrich-Böll-Stiftung | Studentische Teilzeitkraft Digitalisierungsprojekt Studienwerk | https://www.boell.de/de/2026/11/17/studentische-teilzeitkraft-digitalisierungsprojekt-studienwerk-wmdka | skipped (IT admin, scholarship office)
