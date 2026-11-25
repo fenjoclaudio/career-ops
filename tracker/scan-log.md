@@ -11,6 +11,12 @@ Skipped as irrelevant: n
 Highlights: one line per A or B posting
 ```
 
+## 2026-11-25
+Sources checked: 15 (unreachable: DGAP jobs page, AA vacancy list, adelphi portal, BMVg page fetch timed out, search only. Bundeskanzleramt, Interamt, Bund.de, Abgeordnetenbüros, McKinsey, Rasmussen Global, BND search only, nothing new. Current GIZ cybersecurity posting unreadable, evaluated from previous cohorts. Deutsche Bahn "Praktikum Strategische Sicherheitsbeziehungen" still not retried. Gmail: 6 LinkedIn alerts with 6 postings. SWP, GPPi: no new vacancies)
+New relevant postings: 2 (A: 0, B: 0, C or lower: 2)
+Skipped as irrelevant, duplicate or closed: 5
+Highlights: none. GIZ cyber diplomacy internship C (62), full-time. Planet export control Werkstudent D (49)
+
 ## 2026-11-24
 Sources checked: 15 (unreachable: individual AA vacancy pages blocked, but the AA vacancy list loaded and shows no open vacancies. BMVg, BND, Bundeskanzleramt, Interamt, Bund.de, Abgeordnetenbüros, McKinsey, Rasmussen Global, adelphi search only. Bundestag Volontariat page unreadable. Deutsche Bahn "Praktikum Strategische Sicherheitsbeziehungen" not retried, still to check. Gmail: one LinkedIn alert with 5 FU Berlin student jobs. SWP, GPPi, DGAP: no new vacancies)
 New relevant postings: 0 (A: 0, B: 0, C or lower: 0)
@@ -83,3 +89,10 @@ Every posting the scan has already looked at, so it is never evaluated twice. On
 2026-11-24 | Freie Universität Berlin | Stud. Beschäftigte*r PuK-Journalistik MePraWi TP1 | https://www.linkedin.com/jobs/view/4492376327/ | skipped (journalism research)
 2026-11-24 | Berghof Foundation | General application student assistant | https://berghof-foundation-operations-ggmbh.jobs.personio.de/job/507989 | skipped (open pool, no specific vacancy)
 2026-11-24 | Heinrich-Böll-Stiftung | Studentische Teilzeitkraft Digitalisierungsprojekt Studienwerk | https://www.boell.de/de/2026/11/17/studentische-teilzeitkraft-digitalisierungsprojekt-studienwerk-wmdka | skipped (IT admin, scholarship office)
+2026-11-25 | GIZ | Praktikant*in Globalvorhaben Partnership for Strengthening Cybersecurity | https://www.linkedin.com/jobs/view/4493650182/ | C
+2026-11-25 | Planet | Working Student Export Control / International Trade Compliance | https://job-boards.greenhouse.io/planetlabs/jobs/8396468 | D
+2026-11-25 | Rolejob | Working Student Export Control / International Trade Compliance | https://www.linkedin.com/jobs/view/4494048579/ | skipped (duplicate of Planet)
+2026-11-25 | GIZ | Praktikant*in Kommunikation, Öffentlichkeitsarbeit EUKI | https://www.linkedin.com/jobs/view/4493642439/ | skipped (communications, climate)
+2026-11-25 | Deloitte | Praktikant / Werkstudent IT Risikomanagement Financial Services | https://www.linkedin.com/jobs/view/4243070007/ | skipped (IT, finance)
+2026-11-25 | SAP | Working Student Junior Solution Advisor BTM | https://www.linkedin.com/jobs/view/4492396594/ | skipped (IT sales)
+2026-11-25 | DGAP | Project Manager / Policy Fellow Clean Industrial Transition | https://dgap.org/de/dgap/jobs/project-manager-policy-fellow-dgaps-project-macroeconomic-and-security-dimensions-europes | skipped (deadline passed, master required)
