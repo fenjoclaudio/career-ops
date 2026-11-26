@@ -11,6 +11,12 @@ Skipped as irrelevant: n
 Highlights: one line per A or B posting
 ```
 
+## 2026-11-26
+Sources checked: 15 (unreachable: PwC posting page and job boards, DGAP German jobs page, AA vacancy 2804544 page. Bundeskanzleramt, BMVg, BND, Interamt, Bund.de, Abgeordnetenbüros, McKinsey, Rasmussen Global, adelphi, ECFR, GMF search only, nothing new. Gmail: 3 LinkedIn alerts with 4 new postings. SWP: only the known Veranstaltungsmanagement SHK, no internships. DGAP, GPPi: no vacancies)
+New relevant postings: 1 (A: 0, B: 0, C or lower: 1)
+Skipped as irrelevant: 3
+Highlights: none. PwC Public Sector Consulting Werkstudent C (63), topic unknown
+
 ## 2026-11-25
 Sources checked: 15 (unreachable: DGAP jobs page, AA vacancy list, adelphi portal, BMVg page fetch timed out, search only. Bundeskanzleramt, Interamt, Bund.de, Abgeordnetenbüros, McKinsey, Rasmussen Global, BND search only, nothing new. Current GIZ cybersecurity posting unreadable, evaluated from previous cohorts. Deutsche Bahn "Praktikum Strategische Sicherheitsbeziehungen" still not retried. Gmail: 6 LinkedIn alerts with 6 postings. SWP, GPPi: no new vacancies)
 New relevant postings: 2 (A: 0, B: 0, C or lower: 2)
@@ -96,3 +102,7 @@ Every posting the scan has already looked at, so it is never evaluated twice. On
 2026-11-25 | Deloitte | Praktikant / Werkstudent IT Risikomanagement Financial Services | https://www.linkedin.com/jobs/view/4243070007/ | skipped (IT, finance)
 2026-11-25 | SAP | Working Student Junior Solution Advisor BTM | https://www.linkedin.com/jobs/view/4492396594/ | skipped (IT sales)
 2026-11-25 | DGAP | Project Manager / Policy Fellow Clean Industrial Transition | https://dgap.org/de/dgap/jobs/project-manager-policy-fellow-dgaps-project-macroeconomic-and-security-dimensions-europes | skipped (deadline passed, master required)
+2026-11-26 | PwC Deutschland | Praktikum / Werkstudent Public Sector Consulting | https://www.linkedin.com/jobs/view/4487913458/ | C
+2026-11-26 | EY-Parthenon | Werkstudent Decision Modelling & Economics | https://www.linkedin.com/jobs/view/4320179337/ | skipped (economic modelling, not policy)
+2026-11-26 | Deloitte | Praktikant / Werkstudent Fördermittelberatung Business Tax | https://www.linkedin.com/jobs/view/4243063604/ | skipped (tax)
+2026-11-26 | Amprion | Referent Energiepolitik | https://www.linkedin.com/jobs/view/4488939790/ | skipped (permanent professional role, energy sector)
