@@ -11,6 +11,12 @@ Skipped as irrelevant: n
 Highlights: one line per A or B posting
 ```
 
+## 2026-11-27
+Sources checked: 15 (unreachable: individual AA vacancy page 2780870 blocked, but the AA vacancy list loaded and shows no open vacancies. Bundeskanzleramt, BMVg, BND, Interamt, Bund.de, Abgeordnetenbüros, McKinsey, Rasmussen Global, adelphi, DGAP, GPPi, ECFR, GMF search only, nothing new. Gmail: 3 LinkedIn alerts with 3 new postings. SWP: no new vacancies)
+New relevant postings: 1 (A: 0, B: 0, C or lower: 1)
+Skipped as irrelevant or closed: 6
+Highlights: none. Bundestag standing call for student staff C (60), mostly visitor service
+
 ## 2026-11-26
 Sources checked: 15 (unreachable: PwC posting page and job boards, DGAP German jobs page, AA vacancy 2804544 page. Bundeskanzleramt, BMVg, BND, Interamt, Bund.de, Abgeordnetenbüros, McKinsey, Rasmussen Global, adelphi, ECFR, GMF search only, nothing new. Gmail: 3 LinkedIn alerts with 4 new postings. SWP: only the known Veranstaltungsmanagement SHK, no internships. DGAP, GPPi: no vacancies)
 New relevant postings: 1 (A: 0, B: 0, C or lower: 1)
@@ -106,3 +112,10 @@ Every posting the scan has already looked at, so it is never evaluated twice. On
 2026-11-26 | EY-Parthenon | Werkstudent Decision Modelling & Economics | https://www.linkedin.com/jobs/view/4320179337/ | skipped (economic modelling, not policy)
 2026-11-26 | Deloitte | Praktikant / Werkstudent Fördermittelberatung Business Tax | https://www.linkedin.com/jobs/view/4243063604/ | skipped (tax)
 2026-11-26 | Amprion | Referent Energiepolitik | https://www.linkedin.com/jobs/view/4488939790/ | skipped (permanent professional role, energy sector)
+2026-11-27 | Deutscher Bundestag | Studentische Aushilfskräfte (Dauerausschreibung) | https://www.bundestag.de/services/karriere/stellenausschreibungen/stellen/dauerausschreibungen/daueraus-studentische-hilfskraefte-959556 | C
+2026-11-27 | EY-Parthenon | Praktikant Decision Modelling & Economics | https://www.linkedin.com/jobs/view/4320299100/ | skipped (economic modelling, not policy)
+2026-11-27 | The Wall Street Journal | Russia Editorial Assistant | https://www.linkedin.com/jobs/view/4469906516/ | skipped (journalism)
+2026-11-27 | Dow Jones | Russia Editorial Assistant | https://www.linkedin.com/jobs/view/4469917497/ | skipped (journalism, duplicate of WSJ)
+2026-11-27 | IFSH | Student employee CBWNet project | https://ifsh.de/en/institute/vacancies/details/job/copy-of-student-employee-in-the-cbwnet-project-10-hours-per-week-2217287 | skipped (deadline passed Aug 2025)
+2026-11-27 | IFSH | Student Research Assistant Impact Hub | https://ifsh.de/en/institute/vacancies/details/job/student-research-assistant-m-f-d-at-ifsh-in-the-project-impact-hub-integrated-effectiveness-of-integrated-peace-engagement-35-hours-per-month-2058477 | skipped (deadline passed May 2025)
+2026-11-27 | RCKT | Pflichtpraktikum Consultancy / Public Sector | https://rckt.recruitee.com/o/pflichtpraktikum-consultancy-public-sector-mwd | skipped (communications, full-time 6 months)
